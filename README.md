@@ -1,3 +1,7 @@
 # Playground
 
-A public repo for GitHub achievements.
+A public repo.
+
+## Change 3
+
+add gitignore added.
